@@ -63,5 +63,5 @@ To install with both CUDA and contrib modules:
 First make sure CUDA toolkit is installed. Then use the below cmake command instead of the one above:
 - `cmake -DWITH_IPP=ON -DWITH_QT=ON -DWITH_OPENGL=ON -DFORCE_VTK=ON -DWITH_TBB=ON -DWITH_GDAL=ON -DWITH_XINE=ON -DWITH_CUDA=ON -DENABLE_FAST_MATH=1 -DCUDA_FAST_MATH=1 -DWITH_CUBLAS=1 -DOPENCV_EXTRA_MODULES_PATH=../../opencv_contrib-3.2.0/modules -DBUILD_EXAMPLES=ON ..`
 
-# EXECUTE SOME OPENCV EXAMPLES AND COMPILE A DEMONSTRATION
-To complete this step, please visit 'http://milq.github.io/install-opencv-ubuntu-debian'.
+# TEST IT
+Execute some OpenCV examples. To complete this step, please visit 'http://milq.github.io/install-opencv-ubuntu-debian'.
