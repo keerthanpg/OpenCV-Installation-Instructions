@@ -1,6 +1,8 @@
 # OpenCV-Installation-Instructions
 Installation instructions for OpenCV on Ubuntu and python3 with/without contrib modules and CUDA funcationality.
 
+Forked from https://gist.github.com/bigsnarfdude/2a5ee54bf2e2a240282392614a205d3c and modified
+
 # KEEP UBUNTU OR DEBIAN UP TO DATE
 
 - `sudo apt-get -y update`
