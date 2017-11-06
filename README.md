@@ -8,7 +8,7 @@ Installation instructions for OpenCV on Ubuntu and python3 with/without contrib 
 - `sudo apt-get -y dist-upgrade`
 - `sudo apt-get -y autoremove`
 
-# INSTALL THE DEPENDENCIES
+# INSTALL DEPENDENCIES
 
 Build tools:
 - `sudo apt-get install -y build-essential cmake`
